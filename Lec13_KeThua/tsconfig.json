@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "mjs",
+        "watch": true,
+        "removeComments": false
+    }
+}
